@@ -92,7 +92,7 @@ Tested multiple regression models:
 
 **Nitesh Kumar**  
 _B.Tech CSE (Data Science), 4th Semester_  
-📍 Bihar, India  
+ 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nitesh-kumar-507a0928b/)
 
 ---
